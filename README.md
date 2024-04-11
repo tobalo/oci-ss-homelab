@@ -20,6 +20,11 @@ OCI CLI Authentication
 oci session authenticate
 ```
 
+TF init
+```bash
+terraform init
+```
+
 TF Plan
 ```bash
 terraform plan
